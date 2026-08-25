@@ -1,8 +1,8 @@
 class Solution {
 
     fun check(piles: IntArray, k: Int, h: Int): Boolean {
-        var hour : Long= 0
-
+ //       var hour : Long= 0
+        var hour = 0L
         for (pile in piles) {
             hour += (pile + k - 1) / k
         }
