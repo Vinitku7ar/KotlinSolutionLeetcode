@@ -4,7 +4,7 @@ class Solution {
         for(i in strs.indices){
             while(!strs[i].startsWith(prefix)){
                prefix=prefix.dropLast(1)
-
+                if(prefix.isEmpty()) return ""
             }
 
         }
