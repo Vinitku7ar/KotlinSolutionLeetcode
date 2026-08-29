@@ -1,0 +1,15 @@
+class Solution {
+    fun longestCommonPrefix(strs: Array<String>): String {
+            var prefix=strs[0]
+        for(i in strs.indices){
+            while(!strs[i].startsWith(prefix)){
+               prefix=prefix.dropLast(1)
+
+            }
+
+        }
+
+         return prefix
+        
+    }
+}
