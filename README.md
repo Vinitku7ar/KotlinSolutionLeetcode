@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0875-koko-eating-bananas) |
 | [1470-shuffle-the-array](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1470-shuffle-the-array) |
