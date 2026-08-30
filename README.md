@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1929-concatenation-of-array](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
