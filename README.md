@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0022-generate-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
