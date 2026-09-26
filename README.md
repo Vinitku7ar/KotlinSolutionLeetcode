@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0704-binary-search) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0268-missing-number) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Backtracking
 |  |
@@ -139,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0050-powx-n) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
