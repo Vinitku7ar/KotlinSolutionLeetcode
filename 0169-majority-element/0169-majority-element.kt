@@ -1,20 +1,18 @@
 class Solution {
     fun majorityElement(nums: IntArray): Int {
-
-        val threshold = nums.size/2
-        
-        for(i in nums.indices){
-             var freq=0
-            for(j in nums.indices){
-                if(nums[i]==nums[j]){
-                    freq++ 
-              }
-              
+        var candidate=0
+        var balance=0
+        for(num in nums){
+            if(balance==0){
+                candidate=num
             }
-             if(freq>threshold){
-                       return nums[i]
-                }
+            if(num == candidate){
+                balance++
+            }
+            else{
+                balance--
+            }
         }
-        return -1
+        return candidate
     }
 }
