@@ -1,19 +1,19 @@
 class Solution {
     fun findMaxConsecutiveOnes(nums: IntArray): Int {
+
         var count=0
-         var ans=0
-        for(i in nums.indices){
+        var ans =0
+        for( i in nums.indices ){
             if(nums[i]==1){
-                count++
-                if(count>ans){
-                    ans=count
-                }
+               count++
+               if(count>ans){
+                ans=count
+               }
             }
             else{
-
                 count=0
             }
-            
+
         }
         return ans
     }
