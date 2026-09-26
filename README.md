@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0875-koko-eating-bananas) |
@@ -40,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0078-subsets](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Two Pointers
 |  |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -92,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -109,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
