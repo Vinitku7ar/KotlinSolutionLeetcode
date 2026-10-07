@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0050-powx-n) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
