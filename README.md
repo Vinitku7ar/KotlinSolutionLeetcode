@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0151-reverse-words-in-a-string) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -163,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0328-odd-even-linked-list](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0328-odd-even-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
