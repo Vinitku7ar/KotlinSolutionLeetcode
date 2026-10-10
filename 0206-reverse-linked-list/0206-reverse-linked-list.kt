@@ -4,22 +4,21 @@
  * var v = li.`val`
  * Definition for singly-linked list.
  * class ListNode(var `val`: Int) {
- *     var next : ListNode? = null
+ *     var next: ListNode? = null
  * }
  */
 class Solution {
     fun reverseList(head: ListNode?): ListNode? {
-        var prevNode :ListNode?=null
-        var currNode :ListNode?=head
-        var nextNode :ListNode?=null
-
-        while(currNode!=null){
-            //saving next address
-            nextNode=currNode?.next
-            currNode?.next=prevNode
-            prevNode=currNode
-            currNode=nextNode
+        
+        if(head==null || head.next==null){
+            return head
         }
-        return prevNode
+
+       val newNode=reverseList(head.next)
+
+        head.next!!.next=head
+        head.next=null
+
+        return newNode
     }
 }
