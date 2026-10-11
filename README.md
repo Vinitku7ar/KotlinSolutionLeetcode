@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0875-koko-eating-bananas) |
+| [0907-sum-of-subarray-minimums](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1470-shuffle-the-array](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1929-concatenation-of-array](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1929-concatenation-of-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0907-sum-of-subarray-minimums](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0735-asteroid-collision) |
+| [0907-sum-of-subarray-minimums](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0142-linked-list-cycle-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0907-sum-of-subarray-minimums](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
