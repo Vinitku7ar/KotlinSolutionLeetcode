@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0169-majority-element) |
+| [0239-sliding-window-maximum](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0704-binary-search) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -197,4 +199,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0155-min-stack) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
