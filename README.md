@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0907-sum-of-subarray-minimums) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
