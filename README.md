@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0136-single-number) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0735-asteroid-collision) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Design
 |  |
@@ -214,5 +217,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
