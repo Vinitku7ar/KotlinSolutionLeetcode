@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0239-sliding-window-maximum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
