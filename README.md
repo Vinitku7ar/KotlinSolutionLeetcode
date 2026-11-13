@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0198-house-robber) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0037-sudoku-solver) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
