@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0907-sum-of-subarray-minimums](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1046-last-stone-weight) |
+| [1049-last-stone-weight-ii](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1049-last-stone-weight-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0198-house-robber) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1049-last-stone-weight-ii](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1049-last-stone-weight-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -274,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1049-last-stone-weight-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
