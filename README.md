@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0063-unique-paths-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0205-isomorphic-strings) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0044-wildcard-matching) |
 | [1903-largest-odd-number-in-string](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0234-palindrome-linked-list) |
