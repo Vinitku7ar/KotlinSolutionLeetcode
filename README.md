@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0518-coin-change-ii](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0518-coin-change-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1049-last-stone-weight-ii](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1049-last-stone-weight-ii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0516-longest-palindromic-subsequence](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
