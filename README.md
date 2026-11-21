@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0198-house-robber) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0518-coin-change-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1049-last-stone-weight-ii](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1049-last-stone-weight-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
