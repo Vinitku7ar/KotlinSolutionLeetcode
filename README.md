@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0368-largest-divisible-subset) |
+| [0455-assign-cookies](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0704-binary-search) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0455-assign-cookies) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0044-wildcard-matching) |
+| [0455-assign-cookies](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -316,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0300-longest-increasing-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
