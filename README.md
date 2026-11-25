@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0078-subsets) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0268-missing-number) |
@@ -333,5 +335,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
