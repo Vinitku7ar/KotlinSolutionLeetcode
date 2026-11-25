@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0516-longest-palindromic-subsequence](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1049-last-stone-weight-ii](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1049-last-stone-weight-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Vinitku7ar/KotlinSolutionLeetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
